@@ -18,7 +18,7 @@
   <br />
   <br />
   <a href="https://github.com/new?template_name=gitpod-deno-base&template_owner=ArnavK-09">
-    <img width="2024" src="https://img.shields.io/badge/Github-000000.svg?style=plastic&logo=Github&logoColor=white&label=Use%20This%20Template" alt="Use This Template" />
+    <img width="1024" src="https://img.shields.io/badge/Github-000000.svg?style=plastic&logo=Github&logoColor=white&label=Use%20This%20Template" alt="Use This Template" />
   </a>
 
 </p>
